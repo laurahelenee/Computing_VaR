@@ -13,3 +13,7 @@ It is determined by 3 variables:
 - Size of possible loss
 
 Three methods are used in otder to compute the VaR: the historical method (implemented in May 2023), the variance-covariance method, and the Monte-Carlo simulation. 
+
+## What does this repo contain?
+- A main.py file 
+- Two modules computing historical and conditional-historical VaRs. 
