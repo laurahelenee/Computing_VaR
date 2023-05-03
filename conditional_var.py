@@ -6,7 +6,7 @@ import datetime
 def read_dataframe(path, sheet_name=None):
     '''
         Inputs:
-        - path: file path leading to the price file
+        - path: file path leading to the price file, with daily data
         - sheet_name: name of the specific Excel sheet
 
         Output: 
